@@ -3,3 +3,4 @@ remote da degisiklikler ekledik.
 nsb branchi taskni tamamladi
 
 bazi oz. ekledik:nsb
+nsb:oz ekledik.
